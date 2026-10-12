@@ -1,0 +1,82 @@
+Display 0 (HWC display 0): no identification data
+Build configuration: [sf PRESENT_TIME_OFFSET=0 FORCE_HWC_FOR_RBG_TO_YUV=1 MAX_VIRT_DISPLAY_DIM=0 RUNNING_WITHOUT_SYNC_FRAMEWORK=0 NUM_FRAMEBUFFER_SURFACE_BUFFERS=3]
+
+Display identification data:
+Display 0 (HWC display 0): no identification data
+
+Wide-Color information:
+Device has wide color built-in display: 0
+Device uses color management: 1
+DisplayColorSetting: Managed
+Display 0 color modes:
+    ColorMode::NATIVE (0)
+    Current color mode: ColorMode::NATIVE (0)
+
+Sync configuration: [using: EGL_ANDROID_native_fence_sync EGL_KHR_wait_sync]
+
+Scheduler:
++  Touch timer: off
++  Content detection: off LayerHistory{size=127, active=0}
+
+Frame Rate Overrides (backdoor): {}
+Frame Rate Overrides (GameManager): {}
+Frame Rate Overrides (setFrameRate): {}
+mScreenAcquired=1 mPrimaryHWVsyncEnabled=0 mHWVsyncAvailable=1
+ScreenOff: 1d10:25:58.566
+60.00 Hz: 0d00:46:43.494
+90.00 Hz: 0d08:10:35.993
+
+           app phase:      5400001 ns	         SF phase:    -10933333 ns
+           app duration:  17000000 ns	         SF duration:  27600000 ns
+     early app phase:      5400001 ns	   early SF phase:    -10933333 ns
+     early app duration:  17000000 ns	   early SF duration:  27600000 ns
+  GL early app phase:      5400001 ns	GL early SF phase:    -10933333 ns
+  GL early app duration:  17000000 ns	GL early SF duration:  27600000 ns
+  Decouple app phase:      5400001 ns	Decouple SF phase:    -10933333 ns
+  Decouple app duration:  17000000 ns	Decouple SF duration:  27600000 ns
+       HWC min duration:  23000000 ns
+      present offset:         0 ns	     VSYNC period:  16666667 ns
+
+(mode override by backdoor: no)
+
+app: state=Idle VSyncState={displayId=0, count=6957051}
+  pending events (count=0):
+  connections (count=71):
+    Connection{0xb400007c3cf508c0, VSyncRequest::None}
+    Connection{0xb400007b7100b960, VSyncRequest::None}
+    Connection{0xb400007b7100ea60, VSyncRequest::None}
+    Connection{0xb400007b7100f080, VSyncRequest::None}
+    Connection{0xb400007b7100f320, VSyncRequest::None}
+    Connection{0xb400007b7100f400, VSyncRequest::None}
+    Connection{0xb400007c3cf510a0, VSyncRequest::None}
+    Connection{0xb400007c3cf53aa0, VSyncRequest::None}
+    Connection{0xb400007c3cf53f00, VSyncRequest::None}
+    Connection{0xb400007c3cf54a60, VSyncRequest::None}
+    Connection{0xb400007c3cf54b40, VSyncRequest::None}
+    Connection{0xb400007c3cf55080, VSyncRequest::None}
+    Connection{0xb400007b7100f6a0, VSyncRequest::None}
+    Connection{0xb400007c3cf56900, VSyncRequest::None}
+    Connection{0xb400007b898a5a40, VSyncRequest::None}
+    Connection{0xb400007b713f32a0, VSyncRequest::None}
+    Connection{0xb400007b713f47a0, VSyncRequest::None}
+    Connection{0xb400007b713f45e0, VSyncRequest::None}
+    Connection{0xb400007b713f4960, VSyncRequest::None}
+    Connection{0xb400007b7100fa20, VSyncRequest::None}
+    Connection{0xb400007b71010040, VSyncRequest::None}
+    Connection{0xb400007b7100e8a0, VSyncRequest::None}
+    Connection{0xb400007b71010120, VSyncRequest::None}
+    Connection{0xb400007b676b0dc0, VSyncRequest::None}
+    Connection{0xb400007b676af9a0, VSyncRequest::None}
+    Connection{0xb400007b676b28e0, VSyncRequest::None}
+    Connection{0xb400007b676b0340, VSyncRequest::None}
+    Connection{0xb400007b713f6480, VSyncRequest::None}
+    Connection{0xb400007b713f55a0, VSyncRequest::None}
+    Connection{0xb400007b71010820, VSyncRequest::None}
+    Connection{0xb400007b7100e980, VSyncRequest::None}
+    Connection{0xb400007b7100f860, VSyncRequest::None}
+    Connection{0xb400007b713f68e0, VSyncRequest::None}
+    Connection{0xb400007c3cf56660, VSyncRequest::None}
+    Connection{0xb400007b676b1220, VSyncRequest::None}
+    Connection{0xb400007b676b15a0, VSyncRequest::None}
+    Connection{0xb400007b676afb60, VSyncRequest::None}
+Failed to write while dumping service SurfaceFlinger: Broken pipe

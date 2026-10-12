@@ -1,0 +1,2 @@
+cat: /proc/device-tree/model: Permission denied
+cat: /proc/device-tree/compatible: Permission denied

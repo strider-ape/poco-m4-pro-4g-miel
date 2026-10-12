@@ -1,0 +1,8 @@
+﻿[  155526.864610] EV_KEY       KEY_UP               DOWN                
+[  155526.864610] EV_SYN       SYN_REPORT           00000000            
+[  155526.865120] EV_KEY       KEY_UP               UP                  
+[  155526.865120] EV_SYN       SYN_REPORT           00000000            
+[  155541.945339] EV_KEY       KEY_UP               DOWN                
+[  155541.945339] EV_SYN       SYN_REPORT           00000000            
+[  155541.945896] EV_KEY       KEY_UP               UP                  
+[  155541.945896] EV_SYN       SYN_REPORT           00000000            

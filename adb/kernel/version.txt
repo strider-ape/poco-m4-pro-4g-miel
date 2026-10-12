@@ -1,0 +1,2 @@
+Linux localhost 4.19.191-g6e5440f6a542 #1 SMP PREEMPT Mon Dec 9 23:32:22 CST 2024 aarch64 Toybox
+Linux version 4.19.191-g6e5440f6a542 (builder@pangu-build-component-vendor-351807-9m846-nxqj4-g3lx9) (Android (6443078 based on r383902) clang version 11.0.1 (https://android.googlesource.com/toolchain/llvm-project b397f81060ce6d701042b782172ed13bee898b79), LLD 11.0.1 (/buildbot/tmp/tmp6_m7QH b397f81060ce6d701042b782172ed13bee898b79)) #1 SMP PREEMPT Mon Dec 9 23:32:22 CST 2024

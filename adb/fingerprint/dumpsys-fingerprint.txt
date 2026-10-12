@@ -1,0 +1,9 @@
+Dumping for sensorId: 0, provider: Fingerprint21
+Fps state: 0
+{"service":"Fingerprint21","isUdfps":false,"isPowerbuttonFps":true,"prints":[{"id":0,"count":1,"accept":378,"reject":625,"acquire":3084,"lockout":59,"permanentLockout":1,"acceptCrypto":18,"rejectCrypto":1,"acquireCrypto":40}]}
+HAL deaths since last reboot: 0
+Dump of BiometricScheduler BiometricScheduler/Fingerprint21
+Type: 3
+Current operation: null
+Pending operations: 0
+

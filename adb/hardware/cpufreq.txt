@@ -1,0 +1,8 @@
+/sys/devices/system/cpu/cpu0 500000 2000000
+/sys/devices/system/cpu/cpu1 500000 2000000
+/sys/devices/system/cpu/cpu2 500000 2000000
+/sys/devices/system/cpu/cpu3 500000 2000000
+/sys/devices/system/cpu/cpu4 500000 2000000
+/sys/devices/system/cpu/cpu5 500000 2000000
+/sys/devices/system/cpu/cpu6 774000 2050000
+/sys/devices/system/cpu/cpu7 774000 2050000
